@@ -1,0 +1,8 @@
+Name,Age,Gender,Salary,JoinDate
+John Smith,29.0,Male,50000.0,2020-01-15
+ Mary Johnson,,Female,62000.0,2019-03-22
+Robert Brown,45.0,Male,,2018-07-30
+Emily Davis,33.0,Female,71000.0,2021-06-17
+John Smith,29.0,Male,50000.0,2020-01-15
+,38.0,,54000.0,2020-10-05
+Alex Lee,27.0,Male,58000.0,not_a_date
