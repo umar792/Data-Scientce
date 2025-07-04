@@ -1,0 +1,213 @@
+age,gender,company,designation,skills,experience,salary
+30.0,Male,nan,Full Stack Developer,"HTML,CSS,JS",8.0,40000.0
+40.0,Female,StartupX,Data Scientist,"Python,React",8.0,100000.0
+,Female,StartupX,Full Stack Developer,"Java,Spring",15.0,100000.0
+23.0,Other,TechNova,nan,"Node,Express",15.0,150000.0
+40.0,Other,StartupX,Data Scientist,nan,8.0,
+35.0,Male,nan,Data Scientist,"Node,Express",5.0,60000.0
+30.0,Other,Google,Backend Developer,"Python,React",5.0,40000.0
+40.0,Male,Microsoft,nan,nan,15.0,60000.0
+28.0,Male,StartupX,nan,"Java,Spring",2.0,100000.0
+,Male,Microsoft,Full Stack Developer,"Python,React",15.0,
+28.0,Other,TechNova,nan,"C++,Qt",15.0,40000.0
+40.0,Male,nan,Data Scientist,"Node,Express",15.0,150000.0
+28.0,Female,nan,Backend Developer,"Java,Spring",2.0,80000.0
+25.0,Other,TechNova,Full Stack Developer,"Java,Spring",,
+30.0,Other,Amazon,Full Stack Developer,"Java,Spring",5.0,60000.0
+23.0,nan,TechNova,Frontend Developer,"Python,React",1.0,80000.0
+30.0,Female,TechNova,Data Scientist,nan,3.0,80000.0
+35.0,nan,StartupX,Full Stack Developer,nan,3.0,
+30.0,Other,TechNova,Full Stack Developer,"Java,Spring",10.0,
+40.0,Female,Amazon,nan,"C++,Qt",10.0,
+30.0,Male,Google,nan,"HTML,CSS,JS",5.0,40000.0
+35.0,nan,nan,nan,"Java,Spring",15.0,100000.0
+25.0,nan,TechNova,nan,nan,5.0,40000.0
+40.0,Female,Google,Data Scientist,"HTML,CSS,JS",2.0,150000.0
+25.0,Male,Google,Data Scientist,"Python,React",2.0,60000.0
+23.0,Female,Google,Frontend Developer,"HTML,CSS,JS",3.0,60000.0
+,nan,StartupX,Backend Developer,"Python,React",15.0,40000.0
+30.0,Female,TechNova,Data Scientist,"Python,React",2.0,
+30.0,Female,TechNova,Frontend Developer,"Node,Express",10.0,60000.0
+30.0,Male,Google,Backend Developer,"Java,Spring",15.0,80000.0
+28.0,Male,TechNova,nan,"Python,React",8.0,150000.0
+23.0,Other,TechNova,Full Stack Developer,"Python,React",3.0,100000.0
+30.0,nan,Amazon,Data Scientist,"Node,Express",3.0,40000.0
+25.0,Male,StartupX,Data Scientist,"Node,Express",15.0,100000.0
+,Female,nan,Data Scientist,"HTML,CSS,JS",8.0,40000.0
+23.0,Female,nan,nan,"HTML,CSS,JS",3.0,100000.0
+40.0,Other,Amazon,nan,"Java,Spring",1.0,150000.0
+28.0,nan,TechNova,Backend Developer,"Python,React",2.0,40000.0
+23.0,Male,Amazon,Full Stack Developer,"HTML,CSS,JS",15.0,80000.0
+30.0,Female,Microsoft,Frontend Developer,nan,3.0,40000.0
+40.0,Male,Google,Backend Developer,"Node,Express",1.0,150000.0
+,nan,nan,Full Stack Developer,"Node,Express",1.0,40000.0
+35.0,Male,Amazon,Data Scientist,"C++,Qt",2.0,40000.0
+30.0,Female,TechNova,Frontend Developer,"Node,Express",10.0,60000.0
+25.0,Female,Microsoft,Frontend Developer,"Java,Spring",1.0,150000.0
+23.0,nan,Microsoft,nan,"HTML,CSS,JS",5.0,120000.0
+25.0,nan,Google,Data Scientist,"C++,Qt",15.0,40000.0
+25.0,Other,Microsoft,Full Stack Developer,"HTML,CSS,JS",10.0,100000.0
+23.0,nan,Microsoft,nan,"HTML,CSS,JS",5.0,120000.0
+35.0,Male,Amazon,Backend Developer,"HTML,CSS,JS",,120000.0
+40.0,Male,Amazon,nan,nan,3.0,100000.0
+35.0,nan,TechNova,Data Scientist,"C++,Qt",10.0,100000.0
+28.0,Female,TechNova,Data Scientist,"C++,Qt",10.0,80000.0
+35.0,Male,TechNova,nan,"Node,Express",10.0,40000.0
+40.0,nan,nan,Backend Developer,"Node,Express",1.0,40000.0
+25.0,Male,TechNova,Data Scientist,"Node,Express",2.0,40000.0
+23.0,Female,Amazon,Backend Developer,"Node,Express",3.0,120000.0
+30.0,nan,nan,nan,"HTML,CSS,JS",5.0,60000.0
+40.0,Female,StartupX,Data Scientist,"HTML,CSS,JS",,40000.0
+35.0,Male,Amazon,nan,"C++,Qt",,120000.0
+,Male,Amazon,Frontend Developer,"Python,React",2.0,150000.0
+,Other,Amazon,Full Stack Developer,"Node,Express",,60000.0
+35.0,Female,Google,Full Stack Developer,"Java,Spring",5.0,150000.0
+,Other,Google,Data Scientist,"Node,Express",10.0,120000.0
+35.0,nan,Microsoft,Frontend Developer,"Python,React",2.0,80000.0
+28.0,Other,Google,Frontend Developer,"Node,Express",,100000.0
+30.0,Male,TechNova,Full Stack Developer,"HTML,CSS,JS",3.0,150000.0
+30.0,nan,TechNova,Full Stack Developer,"Java,Spring",15.0,100000.0
+28.0,nan,nan,Data Scientist,"Node,Express",15.0,120000.0
+28.0,Male,nan,nan,"Python,React",1.0,80000.0
+30.0,Other,Amazon,nan,"HTML,CSS,JS",1.0,120000.0
+,nan,nan,Data Scientist,nan,1.0,60000.0
+25.0,Male,nan,nan,nan,3.0,120000.0
+,Female,StartupX,Data Scientist,nan,,150000.0
+23.0,Male,TechNova,Frontend Developer,nan,3.0,150000.0
+25.0,nan,Google,Frontend Developer,"HTML,CSS,JS",2.0,
+,Other,TechNova,Backend Developer,"Java,Spring",10.0,60000.0
+23.0,nan,StartupX,Backend Developer,"C++,Qt",10.0,120000.0
+,Female,nan,Frontend Developer,"Python,React",2.0,120000.0
+,Other,nan,Backend Developer,"Java,Spring",15.0,
+,Female,Google,nan,nan,1.0,100000.0
+35.0,Other,TechNova,Backend Developer,"Node,Express",,60000.0
+28.0,Male,Amazon,Backend Developer,"C++,Qt",8.0,40000.0
+35.0,nan,StartupX,nan,"Python,React",1.0,100000.0
+30.0,Female,StartupX,Data Scientist,"HTML,CSS,JS",10.0,100000.0
+25.0,Male,Amazon,Data Scientist,"HTML,CSS,JS",1.0,150000.0
+23.0,Other,Google,nan,"Java,Spring",10.0,60000.0
+30.0,nan,Amazon,Full Stack Developer,"Python,React",10.0,
+40.0,nan,TechNova,Frontend Developer,"Java,Spring",3.0,100000.0
+,Female,TechNova,Data Scientist,"Node,Express",5.0,
+,Other,nan,Backend Developer,"Java,Spring",15.0,
+30.0,Male,Google,nan,"Python,React",1.0,
+23.0,nan,Google,nan,nan,10.0,80000.0
+23.0,Other,Amazon,Data Scientist,"Java,Spring",5.0,
+,Male,Google,nan,"HTML,CSS,JS",8.0,150000.0
+28.0,Other,StartupX,Backend Developer,"HTML,CSS,JS",15.0,
+30.0,Female,nan,nan,"Java,Spring",5.0,40000.0
+35.0,Male,nan,Data Scientist,"Node,Express",5.0,60000.0
+,nan,nan,Backend Developer,"Node,Express",15.0,120000.0
+,Other,TechNova,Data Scientist,"HTML,CSS,JS",2.0,150000.0
+35.0,Male,StartupX,Frontend Developer,"C++,Qt",15.0,80000.0
+35.0,nan,Amazon,Full Stack Developer,"HTML,CSS,JS",5.0,80000.0
+25.0,nan,Google,nan,"Python,React",10.0,120000.0
+25.0,Other,nan,Data Scientist,"HTML,CSS,JS",,100000.0
+28.0,nan,nan,nan,"C++,Qt",10.0,150000.0
+40.0,nan,Microsoft,Data Scientist,"C++,Qt",1.0,150000.0
+30.0,Female,nan,Data Scientist,"Python,React",1.0,80000.0
+,Male,Google,Full Stack Developer,"Java,Spring",8.0,120000.0
+35.0,Other,Google,nan,"Java,Spring",10.0,150000.0
+,nan,StartupX,Frontend Developer,"C++,Qt",15.0,80000.0
+25.0,Other,nan,Full Stack Developer,"Java,Spring",15.0,100000.0
+23.0,nan,StartupX,nan,nan,10.0,100000.0
+,Female,Google,nan,nan,1.0,100000.0
+23.0,Other,Google,Full Stack Developer,"Java,Spring",1.0,
+,Other,Google,Frontend Developer,"Python,React",15.0,
+28.0,nan,Amazon,nan,"Java,Spring",8.0,100000.0
+25.0,Other,Microsoft,Frontend Developer,"HTML,CSS,JS",2.0,
+25.0,Male,Amazon,Data Scientist,"C++,Qt",8.0,120000.0
+30.0,nan,StartupX,Full Stack Developer,"Java,Spring",2.0,150000.0
+35.0,Other,Amazon,Frontend Developer,"Node,Express",10.0,60000.0
+40.0,Other,StartupX,nan,"Java,Spring",2.0,
+,Other,nan,Frontend Developer,"HTML,CSS,JS",,
+30.0,nan,Microsoft,Data Scientist,"Node,Express",10.0,120000.0
+30.0,Female,Microsoft,Data Scientist,nan,5.0,40000.0
+,Other,StartupX,nan,"Python,React",,60000.0
+,Female,StartupX,Data Scientist,nan,15.0,120000.0
+40.0,nan,nan,Full Stack Developer,"C++,Qt",10.0,
+28.0,Other,Amazon,Frontend Developer,"Java,Spring",2.0,
+35.0,Other,nan,nan,"C++,Qt",3.0,80000.0
+28.0,nan,Microsoft,Backend Developer,"Python,React",8.0,150000.0
+28.0,Male,Microsoft,Full Stack Developer,"HTML,CSS,JS",,40000.0
+,Female,Amazon,Data Scientist,"Python,React",5.0,40000.0
+30.0,Male,StartupX,Backend Developer,"Java,Spring",10.0,60000.0
+,Female,StartupX,Data Scientist,"HTML,CSS,JS",3.0,100000.0
+40.0,nan,Microsoft,Frontend Developer,"Java,Spring",8.0,
+30.0,Female,StartupX,Backend Developer,"C++,Qt",5.0,120000.0
+,Female,Google,nan,"Java,Spring",,40000.0
+35.0,Other,Google,Data Scientist,"C++,Qt",10.0,150000.0
+30.0,Other,nan,Data Scientist,"HTML,CSS,JS",10.0,120000.0
+28.0,nan,nan,Frontend Developer,nan,2.0,150000.0
+28.0,nan,TechNova,Full Stack Developer,"Node,Express",10.0,150000.0
+25.0,Male,Google,Frontend Developer,nan,8.0,
+28.0,nan,Microsoft,Backend Developer,"Python,React",8.0,150000.0
+25.0,nan,StartupX,Backend Developer,"Node,Express",3.0,80000.0
+28.0,nan,nan,Frontend Developer,nan,2.0,150000.0
+30.0,Male,Microsoft,nan,"C++,Qt",,60000.0
+28.0,Other,TechNova,Frontend Developer,"HTML,CSS,JS",3.0,150000.0
+35.0,Male,nan,Full Stack Developer,nan,8.0,80000.0
+30.0,nan,Microsoft,nan,"HTML,CSS,JS",15.0,80000.0
+,Female,TechNova,Full Stack Developer,"Node,Express",5.0,80000.0
+35.0,Other,nan,Data Scientist,nan,3.0,150000.0
+25.0,nan,Amazon,Frontend Developer,"Python,React",10.0,60000.0
+25.0,Male,TechNova,nan,"Python,React",2.0,40000.0
+,Male,Microsoft,Frontend Developer,nan,8.0,80000.0
+30.0,nan,nan,Backend Developer,"Java,Spring",5.0,150000.0
+,Female,nan,Frontend Developer,"C++,Qt",10.0,120000.0
+35.0,nan,StartupX,Backend Developer,"HTML,CSS,JS",2.0,120000.0
+23.0,Female,Microsoft,Frontend Developer,"Node,Express",5.0,
+30.0,Male,Microsoft,nan,"C++,Qt",,60000.0
+35.0,Female,nan,Full Stack Developer,"Python,React",2.0,80000.0
+35.0,Male,StartupX,Frontend Developer,"Python,React",5.0,100000.0
+25.0,nan,Google,Frontend Developer,"Java,Spring",8.0,120000.0
+,nan,TechNova,Backend Developer,nan,2.0,
+30.0,Male,Google,nan,nan,,80000.0
+23.0,nan,Amazon,Data Scientist,"Node,Express",1.0,150000.0
+28.0,nan,nan,Frontend Developer,"C++,Qt",3.0,120000.0
+28.0,Female,Google,Full Stack Developer,"Node,Express",10.0,120000.0
+23.0,nan,StartupX,Backend Developer,"Java,Spring",3.0,120000.0
+,Female,TechNova,Frontend Developer,"Java,Spring",3.0,150000.0
+23.0,nan,TechNova,Backend Developer,"Node,Express",5.0,60000.0
+,nan,Amazon,Backend Developer,nan,5.0,80000.0
+28.0,nan,Google,Data Scientist,"Python,React",10.0,150000.0
+23.0,Other,TechNova,Backend Developer,"HTML,CSS,JS",15.0,120000.0
+30.0,Other,Amazon,Full Stack Developer,"HTML,CSS,JS",1.0,60000.0
+,nan,Amazon,Backend Developer,"Python,React",15.0,80000.0
+35.0,nan,Amazon,Frontend Developer,nan,10.0,100000.0
+25.0,Male,StartupX,Data Scientist,"Node,Express",15.0,100000.0
+35.0,Other,StartupX,Backend Developer,"Node,Express",15.0,
+30.0,Female,TechNova,Full Stack Developer,"Python,React",8.0,80000.0
+35.0,nan,StartupX,Full Stack Developer,"Python,React",2.0,40000.0
+,nan,Microsoft,Frontend Developer,"Python,React",5.0,80000.0
+40.0,Female,Amazon,Data Scientist,"Java,Spring",8.0,40000.0
+25.0,nan,nan,Full Stack Developer,nan,3.0,120000.0
+25.0,Male,Amazon,Full Stack Developer,"Node,Express",10.0,150000.0
+30.0,Other,Amazon,nan,"Python,React",,80000.0
+,nan,StartupX,Backend Developer,"Node,Express",5.0,80000.0
+23.0,nan,StartupX,nan,"HTML,CSS,JS",3.0,60000.0
+25.0,Other,StartupX,Frontend Developer,"C++,Qt",8.0,
+35.0,Male,Amazon,Frontend Developer,nan,5.0,40000.0
+40.0,Male,nan,Frontend Developer,"HTML,CSS,JS",,120000.0
+28.0,Male,nan,nan,nan,1.0,60000.0
+23.0,nan,TechNova,Backend Developer,"HTML,CSS,JS",1.0,80000.0
+35.0,Male,StartupX,Frontend Developer,"Python,React",10.0,60000.0
+40.0,Female,TechNova,Full Stack Developer,"Python,React",10.0,60000.0
+40.0,Other,Amazon,nan,"Python,React",15.0,80000.0
+25.0,Female,nan,Full Stack Developer,"HTML,CSS,JS",15.0,80000.0
+28.0,Other,Microsoft,Data Scientist,"Python,React",2.0,100000.0
+40.0,Female,Microsoft,Frontend Developer,nan,10.0,100000.0
+,nan,nan,Data Scientist,"Python,React",1.0,
+23.0,nan,nan,nan,"Java,Spring",1.0,40000.0
+25.0,nan,Google,nan,nan,,120000.0
+25.0,Female,nan,Backend Developer,"Node,Express",8.0,80000.0
+28.0,nan,Microsoft,nan,"C++,Qt",,80000.0
+28.0,Female,StartupX,Backend Developer,"HTML,CSS,JS",1.0,
+30.0,Female,StartupX,nan,"Java,Spring",2.0,40000.0
+35.0,Male,Amazon,Frontend Developer,"Java,Spring",15.0,120000.0
+40.0,Other,TechNova,Backend Developer,"HTML,CSS,JS",1.0,
+23.0,Male,Google,Frontend Developer,"HTML,CSS,JS",3.0,80000.0
+,Female,nan,Data Scientist,"HTML,CSS,JS",8.0,40000.0
+40.0,Male,Microsoft,Frontend Developer,nan,15.0,100000.0
+
+
